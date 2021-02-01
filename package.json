@@ -77,7 +77,7 @@
     "find-up": "^3.0.0",
     "form-urlencoded": "^4.0.0",
     "http-proxy": "^1.18.0",
-    "ioredis": "^4.14.0",
+    "ioredis": "^4.19.4",
     "ioredis-mock": "^4.16.3",
     "js-yaml": "^3.13.1",
     "json-schema-merge-allof": "^0.6.0",
