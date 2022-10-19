@@ -84,7 +84,7 @@
     "json-schema-ref-parser": "^7.1.1",
     "jsonwebtoken": "^8.5.1",
     "lodash.flatmap": "^4.5.0",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "oauth2orize": "^1.11.0",
     "parent-require": "^1.0.0",
     "passport": "^0.4.0",
@@ -106,7 +106,7 @@
     "yargs": "^14.0.0",
     "yawn-yaml": "1.4.0",
     "yeoman-environment": "^2.4.0",
-    "yeoman-generator": "^3.2.0"
+    "yeoman-generator": "^5.0.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.1",
