@@ -105,8 +105,8 @@
     "winston": "3.2.1",
     "yargs": "^14.0.0",
     "yawn-yaml": "1.4.0",
-    "yeoman-environment": "^2.4.0",
-    "yeoman-generator": "^3.2.0"
+    "yeoman-environment": "^3.0.0",
+    "yeoman-generator": "^5.0.0"
   },
   "devDependencies": {
     "@types/express": "^4.17.1",
